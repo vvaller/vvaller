@@ -2,7 +2,7 @@
 
 - 😃 Vinicius Valler Rodrigues, 26 anos.
 - 🔭 Cozinheiro a procura de uma mudança de carreira.
-- 🌱 Estudando Java e Python.
+- 🌱 Estudando Java, Java Script, Html e Python.
 - ⚡ Cursando Análise e Desenvolvimento de Sistemas (2º Semestre) e cursos da Alura.
 
 <div style="display: inline_block"><br>

@@ -2,14 +2,15 @@
 
 - 😃 Vinicius Valler Rodrigues, 26 anos.
 - 🔭 Cozinheiro a procura de uma mudança de carreira.
-- 🌱 Estudando Java, HTML5 CSS3 e MySQL Server.
+- 🌱 Estudando JavaScrpt, HTML5 CSS3, Java e MySQL Server.
 - ⚡ Cursando Análise e Desenvolvimento de Sistemas (3º Semestre), Cursos da Alura e UX design no Google.
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Vini-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Vini-SQLServer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="Vini-SQLServer" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="Vini-SQLServer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+  <img align="center" alt="Lore-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Vini-SQLServer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="Vini-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 </div>
 
 ##

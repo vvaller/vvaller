@@ -1,8 +1,8 @@
 ### Olá, seja bem vindo 👋
 
 - 😃 Vinicius Valler Rodrigues, 26 anos.
-- 🔭 Cozinheiro a procura de uma mudança de carreira.
-- 🌱 Estudando JavaScrpt, HTML5 CSS3, Java e MySQL Server.
+- 🔭 Desenvolvedor Junior na empresa Rapidsoft.
+- 🌱 Estudando React e UX design.
 - ⚡ Cursando Análise e Desenvolvimento de Sistemas (3º Semestre), Cursos da Alura e UX design no Google.
 
 <div style="display: inline_block"><br>
